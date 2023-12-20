@@ -1,33 +1,54 @@
 {
-  "projects": [
+  "events": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "new",
+      "category": "Important",
+      "date": "2023-12-21",
+      "startTime": "11:56",
+      "endTime": "01:54",
+      "location": "new",
+      "description": "new",
+      "id": 6
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "name": "test",
+      "category": "Important",
+      "date": "2023-12-21",
+      "startTime": "13:31",
+      "endTime": "14:31",
+      "location": "Puerto Rico",
+      "description": "rtesr",
+      "id": 9
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "new house",
+      "category": "Important",
+      "date": "2023-12-21",
+      "startTime": "12:39",
+      "endTime": "12:43",
+      "location": "Puerto Rico",
+      "description": "hello",
+      "id": 10
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "test1",
+      "category": "Important",
+      "date": "2023-12-27",
+      "startTime": "15:51",
+      "endTime": "17:51",
+      "location": "new",
+      "description": "testtt",
+      "id": 11
+    },
+    {
+      "name": "tes2",
+      "category": "Important",
+      "date": "2023-12-20",
+      "startTime": "13:52",
+      "endTime": "15:52",
+      "location": "Puerto Rico",
+      "description": "1",
+      "id": 12
     }
   ]
 }
